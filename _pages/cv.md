@@ -20,8 +20,8 @@ Experience
 ======
 * May 2025 - Present: Graduate Research Assistant
   * University of Florida
-  * USDA Robotics Strawberry Harvesting Project, in collaboration with Purdue University
-  * Advisor: Prof. Won Suk Lee
+  * USDA Robotics Strawberry Harvesting Project, Precision Agriculture Lab, in collaboration with Purdue University
+  * Advisor: [Prof. Won Suk Lee](https://abe.ufl.edu/people/faculty/wonsuk-lee/)
   * Collected the first real-world 6D pose ground truth dataset of strawberries in agricultural fields and constructed a scene-level realistic synthetic dataset using NVIDIA Isaac Sim
   * Evaluated baseline 6D pose estimation models and analyzed the sim-to-real gap in agricultural field conditions
 
