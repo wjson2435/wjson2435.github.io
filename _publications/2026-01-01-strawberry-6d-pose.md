@@ -2,6 +2,7 @@
 title: "From Simulation to the Real-World: An In-Field 6D Pose Dataset and Baseline for Robotic Strawberry Harvesting"
 collection: publications
 permalink: /publication/2026-strawberry-6d-pose
+link: https://arxiv.org/abs/2606.11381
 header:
   teaser: # e.g. "publications/strawberry-6d-pose.png" (place image in /images/publications/)
 excerpt: ""
