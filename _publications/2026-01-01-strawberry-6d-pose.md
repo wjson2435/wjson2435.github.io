@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2026-strawberry-6d-pose
 header:
   teaser: # e.g. "publications/strawberry-6d-pose.png" (place image in /images/publications/)
+excerpt: ""
 date: 2026-01-01
 venue: 'arXiv preprint'
 citation: 'Woojung Son, Won Suk Lee, Zijing Huang, Daeun Choi, Catia Silva, Yu She, Yan Gu. (2026). &quot;From Simulation to the Real-World: An In-Field 6D Pose Dataset and Baseline for Robotic Strawberry Harvesting.&quot; <i>arXiv preprint</i>.'
