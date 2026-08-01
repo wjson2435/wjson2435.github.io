@@ -25,5 +25,5 @@ Experience
 
 News
 ======
-* **July 2026**: Won 1st Place in the AKABFE Student Paper Competition at the ASABE Annual International Meeting.
-* **July 2026**: Presented "Geometry-Grounded Transformer-Based Monocular 6D Pose Estimation for Robotic Strawberry Harvesting via Sim-to-Real Transfer" (Oral) at the ASABE Annual International Meeting, Indianapolis, IN.
+* **July 2026** - 🎉 Won 1st Place in the AKABFE Student Paper Competition at the ASABE Annual International Meeting.
+* **July 2026** - 🎉 Presented "Geometry-Grounded Transformer-Based Monocular 6D Pose Estimation for Robotic Strawberry Harvesting via Sim-to-Real Transfer" (Oral) at the ASABE Annual International Meeting, Indianapolis, IN.
