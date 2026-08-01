@@ -29,10 +29,10 @@
     <h2 class="archive__item-title" itemprop="headline">
         {{ title }}
       {% if post.arxiv %}
-        &nbsp;<a href="{{ post.arxiv }}" title="arXiv" style="font-size: 0.75em; vertical-align: middle; opacity: 0.85;"><i class="ai ai-arxiv" aria-hidden="true"></i><span class="sr-only">arXiv</span></a>
+        &nbsp;<a href="{{ post.arxiv }}" style="font-size: 0.6em; vertical-align: middle;">[arXiv]</a>
       {% endif %}
       {% if post.huggingface %}
-        &nbsp;<a href="{{ post.huggingface }}" title="Hugging Face" style="font-size: 0.75em; vertical-align: middle; opacity: 0.85;">🤗<span class="sr-only">Hugging Face</span></a>
+        &nbsp;<a href="{{ post.huggingface }}" style="font-size: 0.6em; vertical-align: middle;">[HuggingFace]</a>
       {% endif %}
     </h2>
     
