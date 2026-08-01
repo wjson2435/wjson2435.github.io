@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a master's student in Agricultural and Biological Engineering at the University of Florida, advised by [Dr. Won Suk Lee](https://abe.ufl.edu/people/faculty/wonsuk-lee/) in the Precision Agriculture Lab. My work is focused on 3D Computer Vision. I earned my B.S. in Bio-Industrial Mechanical Engineering from Chonnam National University, where I worked with Dr. Youngsoo Choi.
+Hi, I'm a master's student in Agricultural and Biological Engineering at the University of Florida, advised by [Dr. Won Suk Lee](https://abe.ufl.edu/people/faculty/wonsuk-lee/) in the Precision Agriculture Lab. My work is focused on 3D Computer Vision, applied to agricultural robotics. Before joining UF, I earned my B.S. in Bio-Industrial Mechanical Engineering from Chonnam National University, where I worked with Dr. Youngsoo Choi.
 
 I'm now looking to pursue research in spatial multimodal LLMs and 3D scene representation. Current models often struggle with geometric grounding and hallucinate in 3D space, frequently relying on dataset answer-distribution bias and linguistic shortcuts rather than genuine spatial reasoning, and I want to work on closing this gap. I'm also interested in Vision Language Action models, where these same grounding failures translate directly into unreliable robot behavior.
 
