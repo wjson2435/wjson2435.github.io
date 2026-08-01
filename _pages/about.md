@@ -13,12 +13,6 @@ I'm now looking to pursue research in spatial multimodal LLMs and 3D scene repre
 
 Outside of research, I love cooking and eating, especially Korean food, and enjoy sharing it with others.
 
-News
-======
-* **July 2026**: Our paper "From Simulation to the Real-World: An In-Field 6D Pose Dataset and Baseline for Robotic Strawberry Harvesting" is on [arXiv](https://arxiv.org/abs/2606.11381), with the dataset released on [Hugging Face](https://huggingface.co/datasets/WoojungSon/Straw6D).
-* **July 2026**: Won 1st Place in the AKABFE Student Paper Competition at the ASABE Annual International Meeting.
-* **July 2026**: Presented "Geometry-Grounded Transformer-Based Monocular 6D Pose Estimation for Robotic Strawberry Harvesting via Sim-to-Real Transfer" (Oral) at the ASABE Annual International Meeting, Indianapolis, IN.
-
 Education
 ======
 * M.S. in Agricultural and Biological Engineering, University of Florida, 2025 - 2027 (Expected)
@@ -28,3 +22,8 @@ Experience
 ======
 * Graduate Research Assistant, University of Florida — USDA Robotics Strawberry Harvesting Project, Precision Agriculture Lab, Advisor: [Prof. Won Suk Lee](https://abe.ufl.edu/people/faculty/wonsuk-lee/), in collaboration with Purdue University (May 2025 - Present)
 * Teaching Assistant, Computer Programming, Chonnam National University (Spring 2024)
+
+News
+======
+* **July 2026**: Won 1st Place in the AKABFE Student Paper Competition at the ASABE Annual International Meeting.
+* **July 2026**: Presented "Geometry-Grounded Transformer-Based Monocular 6D Pose Estimation for Robotic Strawberry Harvesting via Sim-to-Real Transfer" (Oral) at the ASABE Annual International Meeting, Indianapolis, IN.
