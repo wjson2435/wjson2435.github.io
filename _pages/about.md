@@ -15,9 +15,9 @@ Outside of research, I love cooking and eating, especially Korean food, and enjo
 
 News
 ======
-* **2026**: Our paper "From Simulation to the Real-World: An In-Field 6D Pose Dataset and Baseline for Robotic Strawberry Harvesting" is on [arXiv](https://arxiv.org/abs/2606.11381), with the dataset released on [Hugging Face](https://huggingface.co/datasets/WoojungSon/Straw6D).
-* **2026**: Won 1st Place in the AKABFE Student Paper Competition at the ASABE Annual International Meeting.
-* **2026**: Presented "Geometry-Grounded Transformer-Based Monocular 6D Pose Estimation for Robotic Strawberry Harvesting via Sim-to-Real Transfer" (Oral) at the ASABE Annual International Meeting, Indianapolis, IN.
+* **July 2026**: Our paper "From Simulation to the Real-World: An In-Field 6D Pose Dataset and Baseline for Robotic Strawberry Harvesting" is on [arXiv](https://arxiv.org/abs/2606.11381), with the dataset released on [Hugging Face](https://huggingface.co/datasets/WoojungSon/Straw6D).
+* **July 2026**: Won 1st Place in the AKABFE Student Paper Competition at the ASABE Annual International Meeting.
+* **July 2026**: Presented "Geometry-Grounded Transformer-Based Monocular 6D Pose Estimation for Robotic Strawberry Harvesting via Sim-to-Real Transfer" (Oral) at the ASABE Annual International Meeting, Indianapolis, IN.
 
 Education
 ======
