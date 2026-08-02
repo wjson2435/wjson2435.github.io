@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * M.S. in Agricultural and Biological Engineering, University of Florida, 2025 - 2027 (Expected)
-* B.S. in Bio-Industrial Mechanical Engineering, Chonnam National University, 2021 - 2025
+* B.S. in Biosystems Engineering, Chonnam National University, 2021 - 2025
 
 Experience
 ======
