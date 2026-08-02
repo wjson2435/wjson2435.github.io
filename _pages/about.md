@@ -29,4 +29,4 @@ News
 ======
 * **July 2026** - 🎉🎉 Won 1st Place in the AKABFE Student Paper Competition at the ASABE Annual International Meeting.
 * **July 2026** - Presented "Geometry-Grounded Transformer-Based Monocular 6D Pose Estimation for Robotic Strawberry Harvesting via Sim-to-Real Transfer" (Oral) at the ASABE Annual International Meeting, Indianapolis, IN.
-* **May 2025** - Started my M.S. in Agricultural and Biological Engineering at the University of Florida, joining Prof. Won Suk Lee's Precision Agriculture Lab to work on the USDA Robotics Strawberry Harvesting Project.
+* **May 2025** - Started my M.S. in Agricultural and Biological Engineering at the University of Florida, joining the Precision Agriculture Lab to work on the USDA Robotics Strawberry Harvesting Project.
