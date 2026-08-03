@@ -34,6 +34,9 @@
       {% if post.huggingface %}
         &nbsp;<a href="{{ post.huggingface }}" style="font-size: 0.6em; vertical-align: middle;">[HuggingFace]</a>
       {% endif %}
+      {% if post.github %}
+        &nbsp;<a href="{{ post.github }}" style="font-size: 0.6em; vertical-align: middle;">[GitHub]</a>
+      {% endif %}
     </h2>
     
     {% if post.read_time %}

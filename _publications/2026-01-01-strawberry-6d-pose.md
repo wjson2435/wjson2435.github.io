@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2026-strawberry-6d-pose
 arxiv: https://arxiv.org/abs/2606.11381
 huggingface: https://huggingface.co/datasets/WoojungSon/Straw6D
+github: https://github.com/wjson2435/Straw6D-pipeline
 header:
   teaser: # e.g. "publications/strawberry-6d-pose.png" (place image in /images/publications/)
 excerpt: ""
