@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I'm a master's student in Agricultural and Biological Engineering at the University of Florida, advised by [Dr. Won Suk Lee](https://abe.ufl.edu/people/faculty/wonsuk-lee/) in the Precision Agriculture Lab. My work is focused on 3D Computer Vision, applied to agricultural robotics. Before joining UF, I earned my B.S. in Biosystems Engineering from Chonnam National University, where I worked with Dr. Youngsoo Choi.
 
-Outside of research, I love cooking and eating, especially Korean food, and enjoy sharing it with others.
+Outside of research, I love cooking and eating, especially Korean food 🥬, and enjoy sharing it with others.
 
 Research Interests
 ======
@@ -27,6 +27,6 @@ Experience
 
 News
 ======
-* **July 2026** - 🎉🎉 Won 1st Place in the AKABFE Student Paper Competition at the ASABE Annual International Meeting.
-* **July 2026** - Presented "Geometry-Grounded Transformer-Based Monocular 6D Pose Estimation for Robotic Strawberry Harvesting via Sim-to-Real Transfer" (Oral) at the ASABE Annual International Meeting, Indianapolis, IN.
-* **May 2025** - Started my M.S. in Agricultural and Biological Engineering at the University of Florida, joining the Precision Agriculture Lab to work on the USDA Robotics Strawberry Harvesting Project.
+* **July 2026** - 🏆🎉 Won 1st Place in the AKABFE Student Paper Competition at the ASABE Annual International Meeting.
+* **July 2026** - 🎤 Presented "Geometry-Grounded Transformer-Based Monocular 6D Pose Estimation for Robotic Strawberry Harvesting via Sim-to-Real Transfer" (Oral) at the ASABE Annual International Meeting, Indianapolis, IN.
+* **May 2025** - 🎓 Started my M.S. in Agricultural and Biological Engineering at the University of Florida, joining the Precision Agriculture Lab to work on the USDA Robotics Strawberry Harvesting Project.
