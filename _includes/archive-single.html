@@ -26,6 +26,8 @@
       </div>
     {% endif %}
 
+    <div class="archive__item-main">
+
     <h2 class="archive__item-title" itemprop="headline">
         {{ title }}
       {% if post.arxiv %}
@@ -60,6 +62,8 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-    
+
+    </div>
+
   </article>
 </div>
