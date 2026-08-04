@@ -11,37 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-<style>
-  /* Publication entries: teaser on the left, details on the right. */
-  .list__item .archive__item {
-    display: flex;
-    align-items: flex-start;
-    gap: 1.5em;
-  }
-  .list__item .archive__item-teaser {
-    flex: 0 0 230px;
-    max-width: 230px;
-    margin-bottom: 0;
-  }
-  .list__item .archive__item-main {
-    flex: 1 1 auto;
-    min-width: 0;
-  }
-  .list__item .archive__item-main > .archive__item-title {
-    margin-top: 0;
-  }
-
-  @media (max-width: 700px) {
-    .list__item .archive__item {
-      display: block;
-    }
-    .list__item .archive__item-teaser {
-      max-width: 100%;
-      margin-bottom: 0.9em;
-    }
-  }
-</style>
-
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
