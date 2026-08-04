@@ -6,7 +6,7 @@ arxiv: https://arxiv.org/abs/2606.11381
 huggingface: https://huggingface.co/datasets/WoojungSon/Straw6D
 github: https://github.com/wjson2435/Straw6D-pipeline
 header:
-  teaser: # e.g. "publications/strawberry-6d-pose.png" (place image in /images/publications/)
+  teaser: "publications/strawberry-6d-pose.jpg"
 excerpt: ""
 authors: '<strong>Woojung Son</strong>, Won Suk Lee, Zijing Huang, Daeun Choi, Catia Silva, Yu She, Yan Gu'
 date: 2026-01-01

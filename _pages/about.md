@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I'm a master's student in Agricultural and Biological Engineering at the University of Florida, advised by [Dr. Won Suk Lee](https://abe.ufl.edu/people/faculty/wonsuk-lee/) in the Precision Agriculture Lab. My work is focused on 3D Computer Vision, applied to agricultural robotics. Before joining UF, I earned my B.S. in Biosystems Engineering from Chonnam National University, where I worked with Dr. Youngsoo Choi.
 
-Outside of research, I love cooking and eating, especially Korean food 🥬, and enjoy sharing it with others.
+Outside of research, I love cooking and eating, especially Korean food 🌶️, and enjoy sharing it with others.
 
 Research Interests
 ======
